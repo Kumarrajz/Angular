@@ -1,0 +1,18 @@
+Angular Notes
+
+Angular CLI  (command line inerface)
+
+Node.js -->  https://nodejs.org/en/download/
+
+NPM(node package manager)		: npm install -g @angular/cli 
+
+Code Environment : Visual studio code 
+
+to now versions use cmd : node -v and npm –v 
+
+to install npm 
+cmd: install 
+
+
+To create project :
+ To create a project using Angular CLI, you need to use the ng new project-name command. I am going to give the project name as MyFirstAngularApp. So type the command as ng new MyFirstAngularApp and then press enter
